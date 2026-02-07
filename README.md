@@ -64,19 +64,6 @@ rigor-ai/
 }
 ```
 
-
-## 📸 Screenshots
-
-[Dashboard]  
-<p align="center">
-  <img src="C:\Users\goelv\OneDrive\Pictures\Screenshots\Screenshot 2026-02-07 142057.png" width="800"/>
-</p>
-
-[Report]  
-<p align="center">
-  <img src="C:\Users\goelv\OneDrive\Pictures\Screenshots\Screenshot 2026-02-07 141820.png"/>
-</p>
-
 ## 🏁 Getting Started
 
 ### Prerequisites
