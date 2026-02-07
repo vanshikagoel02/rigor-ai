@@ -48,38 +48,34 @@ Includes a built-in Answer Generator that only produces responses if the Integri
 
 ```json
 {
-RIGOR-AI/
-│
-├── app.py
-├── visualizers.py
-│
-├── audit/
-│   ├── relevance.py
-│   ├── coverage.py
-│   ├── redundancy.py
-│   ├── integrity.py
-│
-├── utils/
-│   ├── normalization.py
-│   ├── file_parser.py
-│   ├── pdf_export.py
-│
-├── assets/
-│   ├── pipeline_ps1.png
-│   ├── pipeline_ps2.png
-│
-├── requirements.txt
-├── README.md
-├── ASSUMPTIONS.md
-└── FINAL_SUMMARY.pdf
+rigor-ai/
+├── app.py                 # Main Streamlit application entry point
+├── requirements.txt       # Project dependencies
+├── README.md              # Project documentation
+├── src/                   # Core logic and modules
+│   ├── auditor.py         # Main auditing engine
+│   ├── metrics.py         # Scoring and metric calculations
+│   ├── report_generator.py# PDF report generation logic
+│   ├── text_utils.py      # Text processing and normalization
+│   ├── answer_generator.py# Grounded answer generation
+│   └── explainer.py       # Explanation logic
+└── utils/                 # Utility functions
+    └── visualizers.py     # UI components and visualization helpers
 }
 ```
 
 
 ## 📸 Screenshots
 
-[Dashboard](<img width="980" height="727" alt="Screenshot 2026-02-07 142057" src="https://github.com/user-attachments/assets/a64892c9-ee9b-4131-be80-d6fc0b9f47c9" />) 
-[Report](<img width="789" height="720" alt="Screenshot 2026-02-07 141820" src="https://github.com/user-attachments/assets/de0ac78d-8e11-4f2b-bee5-7f748a5da52e" />) 
+[Dashboard]  
+<p align="center">
+  <img src="C:\Users\goelv\OneDrive\Pictures\Screenshots\Screenshot 2026-02-07 142057.png" width="800"/>
+</p>
+
+[Report]  
+<p align="center">
+  <img src="C:\Users\goelv\OneDrive\Pictures\Screenshots\Screenshot 2026-02-07 141820.png"/>
+</p>
 
 ## 🏁 Getting Started
 
