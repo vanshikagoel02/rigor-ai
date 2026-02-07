@@ -48,7 +48,7 @@ Includes a built-in Answer Generator that only produces responses if the Integri
 *(Add your screenshots here!)*
 | Dashboard View | Audit Report |
 |:---:|:---:|
-| ![Dashboard](https://via.placeholder.com/600x400?text=Dashboard+View) | ![Report](https://via.placeholder.com/400x500?text=PDF+Report) |
+| ![Dashboard](C:\Users\goelv\OneDrive\Pictures\Screenshots\Screenshot 2026-02-07 142057.png) | ![Report](https://via.placeholder.com/400x500?text=PDF+Report) |
 
 ## 🏁 Getting Started
 
@@ -90,8 +90,8 @@ Includes a built-in Answer Generator that only produces responses if the Integri
 - [ ] **Custom thresholds**: Allow users to set their own "Safe/Risky" boundaries.
 
 ## 🤝 Contributing
-Built with ❤️ by **[Your Name/Team Name]**. 
+Built with ❤️ by **[Team Name - shreyagoel1801]**. 
 Pull requests are welcome!
 
 ---
-*Built for [Hackathon Name] 2026.*
+*Built for [DataForge - IIT Roorkee] 2026.*
