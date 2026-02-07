@@ -44,12 +44,15 @@ Includes a built-in Answer Generator that only produces responses if the Integri
   - `sentence-transformers` (Semantic similarity embeddings)
 - **Visualization**: `plotly` (Interactive charts), `reportlab` (PDF generation)
 
-## ✨ System Architecture 
+## 📂 Project Structure
+
+```json
 {
 RIGOR-AI/
 │
-├── app.py                     # Main Streamlit entry point
-├── visualizers.py             # UI helpers (if used)
+├── app.py
+├── visualizers.py
+│
 ├── audit/
 │   ├── relevance.py
 │   ├── coverage.py
@@ -66,17 +69,17 @@ RIGOR-AI/
 │   ├── pipeline_ps2.png
 │
 ├── requirements.txt
-├── README.md                  # Main README (single, root-level)
+├── README.md
 ├── ASSUMPTIONS.md
-├── FINAL_SUMMARY.pdf
-└── .gitignore
+└── FINAL_SUMMARY.pdf
 }
+```
+
 
 ## 📸 Screenshots
-*(Add your screenshots here!)*
-| Dashboard View | Audit Report |
-|:---:|:---:|
-| ![Dashboard](<img width="980" height="727" alt="Screenshot 2026-02-07 142057" src="https://github.com/user-attachments/assets/a64892c9-ee9b-4131-be80-d6fc0b9f47c9" />) | ![Report](<img width="789" height="720" alt="Screenshot 2026-02-07 141820" src="https://github.com/user-attachments/assets/de0ac78d-8e11-4f2b-bee5-7f748a5da52e" />) |
+
+[Dashboard](<img width="980" height="727" alt="Screenshot 2026-02-07 142057" src="https://github.com/user-attachments/assets/a64892c9-ee9b-4131-be80-d6fc0b9f47c9" />) 
+[Report](<img width="789" height="720" alt="Screenshot 2026-02-07 141820" src="https://github.com/user-attachments/assets/de0ac78d-8e11-4f2b-bee5-7f748a5da52e" />) 
 
 ## 🏁 Getting Started
 
